@@ -1,5 +1,5 @@
 {
-  "name": "refresh-token-race-condition",
+  "name": "race-assay",
   "version": "0.1.0",
   "private": true,
   "scripts": {
